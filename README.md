@@ -1,4 +1,4 @@
-# Art by CK — Django-based Client Website
+# Personal Portfolio README
 
 A modern, artist-focused portfolio site built in a hackathon, designed to showcase artwork with clean visual hierarchy, strong feminine motifs, and a gallery-inspired feel. Includes a fully custom dashboard so the artist can manage exhibitions, journal entries, and available art without touching admin interfaces intended for developers.
 
