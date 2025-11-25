@@ -1,3 +1,27 @@
+# Art by CK — Django-based Client Website
+
+**Tech:** Django • Python • PostgreSQL • HTML5/CSS3 
+A modern, artist-focused portfolio site built in a hackathon, designed to showcase artwork with clean visual hierarchy, strong feminine motifs, and a gallery-inspired feel. Includes a fully custom dashboard so the artist can manage exhibitions, journal entries, and available art without touching code.
+
+## My Biggest Win
+I improved the user experience by rapidly prototyping and integrating an automated contact-form notification workflow during the hackathon. I designed and deployed the automation end-to-end on a live Heroku app, ensuring messages were delivered instantly and reliably. This win reflects my initiative, UX focus, and ability to bring automation thinking into real production environments under tight deadlines.
+
+## Key Highlights
+- Django backend with PostgreSQL database  
+- Custom CMS/dashboard for non-technical content management  
+- Responsive, minimalist, gallery-inspired UI  
+- Artist-centric design with feminine + pop-art influences  
+- Pages for Gallery, About, Available Art, Exhibitions, and Journal  
+- Secure access control + clean admin UX  
+- Full mobile responsiveness and modern CSS design 
+- Production-ready static file handling  
+
+---
+
+# Original Hackathon README
+
+The below README was written during the hackathon.
+
 # Django project for art-by-ck
 
 This project was created with Django and is configured for PostgreSQL. Connect this project to your GitHub repository named 'art-by-ck' for version control.
